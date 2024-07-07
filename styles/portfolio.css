@@ -56,7 +56,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 50px 200px ;
+    margin: 0px 200px ;
 }
 .nav-title{
     font-weight: 800;
